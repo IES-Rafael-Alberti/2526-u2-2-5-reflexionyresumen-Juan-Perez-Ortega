@@ -13,12 +13,12 @@
 
 ## 1. Datos del alumno/a
 
-- **Nombre y apellidos:**  
-- **Iniciales:**  
-- **Grupo:**  
-- **Actividad / ID:**  
-- **Unidad / Tema:**  
-- **Fecha de entrega:**  
+- **Nombre y apellidos: Juan Pérez Ortega**  
+- **Iniciales: JPO**  
+- **Grupo:G4**  
+- **Actividad / ID: 2.a..e**  
+- **Unidad / Tema: Reflexión y Resumen sobre la Unidad**  
+- **Fecha de entrega: 23/02/2026**  
 
 ---
 
@@ -88,7 +88,7 @@ Recomendación de nombres:
 
 ## 7. Checklist de entrega
 
-- [ ] He rellenado `Actividad / ID` y `Unidad / Tema`
+- [x] He rellenado `Actividad / ID` y `Unidad / Tema`
 - [ ] He rellenado los datos del alumno/a en `README.md` y `RESPUESTAS.md`
 - [ ] He respondido **todas** las preguntas en `RESPUESTAS.md`
 - [ ] He incluido el **resumen esquematizado** contemplando todos los puntos
